@@ -1,0 +1,33 @@
+# This file may be used to create an environment with packages from APPDEV bundle using:
+# $ conda create --name <env> --channel  zoss-appdev --file appdev_bundle_1.1.txt
+# platform: zos-z
+ant=1.10.7=2
+bash=4.3.48=2
+bzip2=1.0.8=0
+curl=7.73.0=0
+diffutils=3.3=1
+expat=2.2.9=4
+gettext=0.19.8.1=1
+git=2.26.2=pl524_78
+gzip=1.9=4
+libffi=3.2.1=6
+libssh2=1.8.0=4
+libtag=1.7=0
+make=4.3=3
+mktemp=1.7=0
+ncurses=6.1=10
+nghttp2=1.33.0=1
+openssl=1.1.1h=12
+perl=5.24.4=4
+php=7.0.5=19
+python=3.7.0=30
+readline=7.0=3
+sed=4.2.2=12
+sqlite=3.23.1=0
+sudo=1.8.21p2=3
+unzip=6.0=12
+vim=8.0.0022=0
+which=2.21=0
+xz=5.2.3=2
+zip=3.0=10
+zlib=1.2.11=4
